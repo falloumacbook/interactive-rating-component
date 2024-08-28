@@ -153,6 +153,7 @@ background-color:#fc7613;
   width: 100%;
   margin-top: 6rem;
   color: white;
+  transition: ease-in .4s;
 }
 .image{
   margin-bottom: 3rem;
